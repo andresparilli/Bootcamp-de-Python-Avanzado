@@ -36,6 +36,8 @@ def sum(*args):
     return total
 
 # Usage examples
-print(sum(2, 3))        # Output: 5
+
+
+print(sum(2, 3))       # Output: 5
 print(sum(1, 5, 7, 2))  # Output: 15
 print(sum(2, 3, 4, 10))  # Output: 19

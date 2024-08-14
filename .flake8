@@ -1,0 +1,11 @@
+[flake8]
+exclude = 
+    .git,
+    __pycache__,
+    docs/source/conf.py,
+    old,
+    build,
+    dist,
+    venv, # o el nombre de tu carpeta de entorno virtual si es diferente
+    env,  # otro nombre común para la carpeta de entorno virtual
+    bootcamp_python_avanzado
